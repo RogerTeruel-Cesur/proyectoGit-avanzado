@@ -1,7 +1,7 @@
 # Nombre que veremos en GitHub Actions
 name: Comprobacion de tokens con Self-Hosted Runner
 
-# Cada vez que hagamos un push se ejecuta el workflow
+# Cada vez que hacemos un push se ejecuta el workflow
 on:
   push:
 
