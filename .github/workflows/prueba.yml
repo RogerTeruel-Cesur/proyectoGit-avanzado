@@ -2,6 +2,7 @@
 name: Comprobacion de tokens con Self-Hosted Runner
 
 # Cada vez que hacemos un push se ejecuta el workflow
+# Segunda prueba: comprobamos que detecta un token incorrecto
 on:
   push:
 
